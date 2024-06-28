@@ -1,7 +1,5 @@
 package liucheuski.siarhei.ai_summer_camp_2024_task_1.config;
 
-import com.fasterxml.jackson.core.StreamReadFeature;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.theokanning.openai.assistants.*;
 import com.theokanning.openai.service.OpenAiService;
 import org.jetbrains.annotations.NotNull;
